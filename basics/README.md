@@ -1,1 +1,1 @@
-practicing loops in c#
+practicing basic c# syntax
